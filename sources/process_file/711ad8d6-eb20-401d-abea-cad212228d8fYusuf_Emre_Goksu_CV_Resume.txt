@@ -1,0 +1,186 @@
+CAREER PROFILE
+
+
+
+» Proﬁcient Languages: PHP, Python, Javascript
+» Proﬁcient Framework(s) & Software(s): Laravel(5.*), Django, Flask, Codeigniter, Git, JetBrains
+IDE's, Ubuntu
+» Areas of Interest: Data Mining, Machine Learning, Artiﬁcial Intelligence
+» You can check my Angel.co Proﬁle: https://angel.co/y7usuf (https://angel.co/y7usuf)
+
+August 2016 - Present
+
+EXPERIENCES (CLICK AND EXPAND DESCRIPTIONS)
+
+
+
+Full-Stack Web Developer
+Nova Translation Services & Pasyonis Medya ve Bilişim
+▪ API-Centric Web Application
+▫ RESTful Web Services with Laravel (5.3+)
+▫ Sophisticated Database Schema (MySQL)
+▫ Vagrant (Homestead) to Virtual Machine Management
+▫ PHPUnit for Testing. To debug web interface using Debugbar
+▪ Angular JS for Web Interface
+▫ Conforming to Design Pattern Standards
+▫ Page Routing with Blade, UI-Router for interior pages
+▫ Third party libraries (UI Angular, Date, Map, Loading)
+
+Yusuf Emre
+
+Göksu
+
+Full-Stack Web
+
+Developer
+
+ yusufgoksu@linux.com
+(mailto:
+yusufgoksu@linux.com)
+
+ yusufgoksu.com
+(http://yusufgoksu.com)
+
+ blog.yusufgoksu.com
+(http://blog.yusufgoksu.com)
+
+ ~yusufemregoksu
+(http://linkedin.com/in/yusufemregoksu)
+
+ github.com/y7usuf
+(https://github.com/y7usuf)
+
+May 2016 - July 2016 (3 months)
+
+Full-Stack PHP Developer
+Smart Education Technologies
+▪ Specialized PHP Web Framework
+▫ PHP Faces for backend (https://github.com/PHPFaces)
+▫ for Database Schema (MySQL)
+▫ Third party plugins for Utils
+▪ Material Web Interface
+▫ Jquery, Html5, Css3 for interface speciﬁcation
+▫ Bootstrap and AdminLTE
+Committed Projects
+http://www.ogrencix.net/v2/index.php
+http://www.kayitsepeti.com/
+
+November 2015 - April 2016 (6 months)
+
+Full-Stack PHP Developer
+Yıldırım Beyazıt University
+▪ Yıldırım Beyazıt University is a university located in Ankara, Turkey. I worked on university's
+ofﬁcial web applications to develop their system. When I worked on there, I use a lot of web
+technologies. For the backend, I used PHP Codeigniter, for front end twitter bootstrap, jquery.
+▪ These are developed by me:
+http://basin.ybu.edu.tr
+http://event.ybu.edu.tr (with other teammates)
+
+Lead Full-Stack Developer
+Y7 Design
+• We were building cloud-based web applications. We built a lot of school automation and
+restaurant automation systems.
+
+August 2011 - July 2014 (3 years)
+
+ angel.co/y7usuf
+(https://angel.co/y7usuf)
+
+ @y7usuf
+(https://twitter.com/y7usuf)
+
+EDUCATION
+BSc in Computer Science
+Yıldırım Beyazıt University
+2014 - 2019
+
+LANGUAGES
+English (Professional)
+Turkish (Native)
+
+INTERESTS
+Data Mining
+Machine Learning
+Artiﬁcial Intelligence
+
+• I was lead full-stack PHP developer at Y7 Design. In this company, 5 developers worked in
+there.
+• I gain project management experience and I learned object oriented in PHP.
+About to Y7 Design
+▪ On the Internet, one of the biggest need in our century, you need to make your (web)site have
+an impression as either individually or institutionally, and it is necessary to do some workings for
+the purpose of strengthening your site both visually and technically.
+▪ The technical capacity and the visual quality that all websites, regardless of being institutional
+or individual, need fundamentally, it makes easier that website to gain its seat.
+▪ In this context, a professional person or crew who can make necessary job is needed. Then,
+each website owner can not do this work healthfully.
+▪ When especially the companies having a website understand that they can not get the enough
+efﬁciency, they need a person or a corporation to do the necessary job. As Y7 Design, we
+perform professionally the necessary actions to be done in accordance with your and your
+website’s requirements.
+
+OPEN SOURCE PROJECTS
+
+
+
+artspin (https://github.com/y7usuf/artspin) - "artspin" is the best way to quickly and freely
+spin your articles. Currently, it is available for just Turkish Language. (PHP, Codeigniter, Python
+(Core system))
+ubuntu-starter-pack (https://github.com/y7usuf/ubuntu-starter-pack) - To best Ubuntu
+conﬁguration pack for student, developer and customer (Python, Bash Script)
+
+COMMERCIAL PROJECTS
+
+
+
+These all projects are commercial and some of them on my github private repos. I can show
+them if you send me mail.
+
+Translation Management App - Translation Management App is the automation of the
+translation process, eliminating repetitive and laborious manual tasks while enabling control,
+increasing collaboration and delivering greater efﬁciency. (Laravel 5.3 (RESTful Backend) ,
+Angular 1.5.8, Vagrant (Homestead))
+DersaneOtomasyon - School management system (PHP, Codeigniter, HTML5, JQuery, Css3)
+SoloLecture - The best way to learn academic lectures (Python, Django Framework)
+ogrencix (http://ogrencix.net/bakin/index.html) - Online Education Platform in Turkey (PHP,
+PHPFaces framework, Jquery, HTML5, Css3)
+
+SKILLS & PROFICIENCY (HOVER AND SEE VERSION)
+
+
+
+▪ I'm using below programming languages, platforms, software so technologies.
+
+ Back-End Programming
+
+     
+   
+
+ Front-End Programming
+
+Proﬁcient Framework(s)
+
+Proﬁcient Platforms(s)
+
+ 
+
+Proﬁcient Framework(s)
+
+    
+  
+    
+  
+
+Proﬁcient Software(s)
+
+ 
+
+ 
+
+ 
+
+ 
+
+Go to my blog blog.yusufgoksu.com (http://blog.yusufgoksu.com)
+
+

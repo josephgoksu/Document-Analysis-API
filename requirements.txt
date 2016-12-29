@@ -1,0 +1,9 @@
+Flask==0.11.1
+Flask-RESTful==0.3.5
+Jinja2==2.8
+textract==1.4.0
+simplejson
+textblob
+flask-triangle
+langdetect
+detectlanguage

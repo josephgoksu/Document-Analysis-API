@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document Analysis System</title>
+    <script src="{{ url_for('static', filename='js/angular.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/angular-resource.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/ng-file-upload-all.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/ng-file-upload-shim.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/ng-controllers.js') }}"></script>
+</head>
+{% raw %}
+<body ng-app="myApp">
+<div ng-controller="MainController">
+    {{ msg }}
+</div>
+</body>
+{% endraw %}
+</html>
