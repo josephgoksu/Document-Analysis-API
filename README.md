@@ -1,8 +1,18 @@
-[![N|Solid](http://yusufgoksu.com/assets/img/documentanalysisapi_white.png)](#)
+[![N|Solid](https://raw.githubusercontent.com/y7usuf/Document-Analysis-API/master/app.jpg)](#)
+
+# To Do
+
+- Python version upgrade 2.7 -> 3.6
+- New app logic
+- Fast text scan algorithm
+
+
+
+Important Message: If you want to use this app, you have to edit some code. 
 
 ### Technologies
 
-DAA(Document Analysis API) uses a number of open source projects to work properly:
+DAA(Document Analysis App) uses a number of open source projects to work properly:
 
 * [Flask] - A microframework based on Werkzeug, Jinja2 and good intentions http://flask.pocoo.org/
 * [Flask RESTful] - Simple framework for creating REST APIs http://flask-restful.readthedocs.io/
@@ -15,19 +25,19 @@ DAA requires [Python 2.7](https://www.python.org/download/releases/2.7/) to run.
 
 **Step 1) Activate python environment**
 
-```sh
+```bash
 $ source ./yourOwnEnvironmentDirectory/bin/activate
 ```
 
 **Step 2) Install the project dependencies**
 
-```sh
+```bash
 $ pip install -r requirements.txt
 ```
 
 **Step 3) Run the project**
 
-```sh
+```bash
 $ export FLASK_APP=hello.py
 $ flask run
  * Running on http://127.0.0.1:5000/
